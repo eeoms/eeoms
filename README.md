@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [HERE](https://www.youtube.com/channel/UCKis3JiI3NP1wX7YXdn53ng/featured)
 
-- 📫 How to reach me **eoms#6774** on Discord
+- 📫 You can reach me at **eoms#6774** on Discord, or eoms110@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.youtube.com/c/eoms](https://www.youtube.com/channel/UCKis3JiI3NP1wX7YXdn53ng)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eoms" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCKis3JiI3NP1wX7YXdn53ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eoms" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

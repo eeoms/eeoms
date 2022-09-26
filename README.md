@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm eoms</h1>
-<h3 align="center">A passionate 14 y/o frontend developer from WA, USA</h3>
+<h3 align="center">A passionate 14 y/o frontend/fullstack developer from WA, USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eeoms&label=Profile%20views&color=0e75b6&style=flat" alt="eeoms" /> </p>
 
-- 🔭 I’m currently working on **a website with React.js and a Discord stock bot**
+- 🔭 I’m currently working on **Discord bots, LeetCode, ect**
 
-- 🌱 I’m currently learning **React.js, Node.js, JS**
+- 🌱 I’m currently learning **React.js, Node.js, JavaScript, C**
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UCKis3JiI3NP1wX7YXdn53ng/featured](https://www.youtube.com/channel/UCKis3JiI3NP1wX7YXdn53ng/featured)
 
-- 📫 How to reach me **eoms#6774**
+- 📫 How to reach me **eoms#6774** on Discord
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

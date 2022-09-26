@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Discord bots, LeetCode, ect**
 
-- 🌱 I’m currently learning **React.js, Node.js, JavaScript, C**
+- 🌱 I’m currently learning **React.js, C**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UCKis3JiI3NP1wX7YXdn53ng/featured](https://www.youtube.com/channel/UCKis3JiI3NP1wX7YXdn53ng/featured)
+- 👨‍💻 All of my projects are available at [HERE](https://www.youtube.com/channel/UCKis3JiI3NP1wX7YXdn53ng/featured)
 
 - 📫 How to reach me **eoms#6774** on Discord
 

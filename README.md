@@ -1,3 +1,3 @@
 # eoms
 
-[eeoms.github.io/portfolio](eeoms.github.io/portfolio)
+[Portfolio](eeoms.github.io/portfolio)
